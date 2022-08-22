@@ -90,6 +90,19 @@ input {
     border-radius: 10px;
 }
 
+.gallery {
+    display: flex;
+}
+
+.gallery-img {
+    width: 30%;
+    margin-left: 2.5%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+}
+
+
+
 #updates {
     /* text-align: center; */
     border-radius: 10px;
