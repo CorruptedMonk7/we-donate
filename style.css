@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+
+.top-section {
+    background-image: url(donate-today-main/images/donation3.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 500px 300px 300px 300px;
+    color: wheat;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.button-class {
+    padding: 10px 30px;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+}
