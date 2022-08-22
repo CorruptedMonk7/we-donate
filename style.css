@@ -4,7 +4,7 @@ body {
 }
 
 .top-section {
-    background-image: url(donate-today-main/images/donation3.jpg);
+    background-image: url(donate-today-main/images/pexels-pok-rie-6471969.jpg);
     background-size: cover;
     text-align: center;
     padding: 500px 300px 300px 300px;
@@ -23,7 +23,7 @@ a {
 }
 
 .button-class {
-    padding: 10px 30px;
+    padding: 15px 50px;
     background-color: tomato;
     color: white;
     border-radius: 5px;
@@ -88,6 +88,22 @@ input {
     margin-left: 2%;
     padding: 2% 5%;
     border-radius: 10px;
+}
+
+#updates {
+    /* text-align: center; */
+    border-radius: 10px;
+    background-color: rgba(255, 244, 214, 0.921);
+    width: 600px;
+    text-align: center;
+    margin-left: 450px;
+    padding-bottom: 50px;
+}
+
+.mail {
+    height: 30px;
+    border-radius: 5px;
+    background-color: gainsboro;
 }
 
 footer {
